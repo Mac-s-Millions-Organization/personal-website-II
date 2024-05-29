@@ -1,0 +1,26 @@
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+/* I borrowed this from W3 schools article on making a persistent header.  There was other stuff, but I figured I should stick to what I kind of know. */
+
+.content {
+  padding: 16px;
+}
+
+body {
+  background-color: bisque;
+}
+
+.cookware {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 100px;
+}
+
+.listGridContainer {
+  display: grid;
+}
